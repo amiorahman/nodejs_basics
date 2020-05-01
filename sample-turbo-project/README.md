@@ -21,6 +21,12 @@ Then run devserver from project root directory:
 $ turbo devserver
 ```
 
+To keep the server running, 'nodemon' can be used as it  automatically install all the dependencies:
+
+```
+$ sudo npm install nodemon
+```
+
 To build for production, run build:
 
 ```
