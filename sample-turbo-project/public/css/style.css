@@ -1,0 +1,8 @@
+h1 {
+	color: red;
+}
+
+.profile-image {
+	max-width: 360px;
+	max-height: 480px;
+}
